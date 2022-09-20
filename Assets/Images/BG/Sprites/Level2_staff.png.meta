@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: b7b274ab066c0254f9df38fb0d127623
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5170155986624964313
+    second: Level2_staff_0
+  - first:
+      213: -8193607474226322709
+    second: Level2_staff_1
+  - first:
+      213: -5066487464928643615
+    second: Level2_staff_2
+  - first:
+      213: -8963924969555250921
+    second: Level2_staff_3
+  - first:
+      213: -4156647299387609130
+    second: Level2_staff_4
+  - first:
+      213: 4951343117660262405
+    second: Level2_staff_5
+  - first:
+      213: -3377921573323922721
+    second: Level2_staff_6
+  - first:
+      213: -1061058624682818354
+    second: Level2_staff_7
+  - first:
+      213: 2679356954485582890
+    second: Level2_staff_8
+  - first:
+      213: -4002959021473934792
+    second: Level2_staff_9
+  - first:
+      213: 8441910697248363482
+    second: Level2_staff_10
+  - first:
+      213: -3672840193994749018
+    second: Level2_staff_11
+  - first:
+      213: -3077056646788956691
+    second: Level2_staff_12
+  - first:
+      213: -5706949543349360573
+    second: Level2_staff_13
+  - first:
+      213: -8377513482440690861
+    second: Level2_staff_14
+  - first:
+      213: -4720635822414592072
+    second: Level2_staff_15
+  - first:
+      213: -4141684432293358684
+    second: Level2_staff_16
+  - first:
+      213: 2166572169589833612
+    second: Level2_staff_17
+  - first:
+      213: 936250878209624860
+    second: Level2_staff_18
+  - first:
+      213: -9178147466964579812
+    second: Level2_staff_19
+  - first:
+      213: 6348959378022787683
+    second: Level2_staff_20
+  - first:
+      213: -2565195352960009797
+    second: Level2_staff_21
+  - first:
+      213: -7346603663752661275
+    second: Level2_staff_22
+  - first:
+      213: 3376575049013076086
+    second: Level2_staff_23
+  - first:
+      213: 1682701667616002716
+    second: Level2_staff_24
+  - first:
+      213: -181592732026786142
+    second: Level2_staff_25
+  - first:
+      213: -2600145294589328273
+    second: Level2_staff_26
+  - first:
+      213: -3322284411130132944
+    second: Level2_staff_27
+  - first:
+      213: 194179241029569362
+    second: Level2_staff_28
+  - first:
+      213: -5186807931502626382
+    second: Level2_staff_29
+  - first:
+      213: -2814273509447029669
+    second: Level2_staff_30
+  - first:
+      213: 1730295899801341511
+    second: Level2_staff_31
+  - first:
+      213: -8444252434724557426
+    second: Level2_staff_32
+  - first:
+      213: -7209543961484039867
+    second: Level2_staff_33
+  - first:
+      213: -4940421758393432728
+    second: Level2_staff_34
+  - first:
+      213: -1572189423335505488
+    second: Level2_staff_35
+  - first:
+      213: 7358505557047287815
+    second: Level2_staff_36
+  - first:
+      213: -2007695134652906661
+    second: Level2_staff_37
+  - first:
+      213: 3560407505235941088
+    second: Level2_staff_38
+  - first:
+      213: -7601570687738274026
+    second: Level2_staff_39
+  - first:
+      213: -3352002047143704816
+    second: Level2_staff_40
+  - first:
+      213: -3819842858401741779
+    second: Level2_staff_41
+  - first:
+      213: 7397559288705141033
+    second: Level2_staff_42
+  - first:
+      213: -7739051040706190692
+    second: Level2_staff_43
+  - first:
+      213: -5383322798632723340
+    second: Level2_staff_44
+  - first:
+      213: 3357828376030957046
+    second: Level2_staff_45
+  - first:
+      213: -7660442072056982539
+    second: Level2_staff_46
+  - first:
+      213: 5857974698620034914
+    second: Level2_staff_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level2_staff_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2589
+        width: 81
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6e3282a7510c740800000000000000
+      internalID: 5170155986624964313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2589
+        width: 81
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be221cde9657a4e80800000000000000
+      internalID: -8193607474226322709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2589
+        width: 81
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e575f97e7830b9b0800000000000000
+      internalID: -5066487464928643615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2589
+        width: 81
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b76cabbdb99380800000000000000
+      internalID: -8963924969555250921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_4
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2589
+        width: 83
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df2a67dd4f9056c0800000000000000
+      internalID: -4156647299387609130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2589
+        width: 81
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50017390554b6b440800000000000000
+      internalID: 4951343117660262405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_6
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 2801
+        width: 207
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd226eed9363f11d0800000000000000
+      internalID: -3377921573323922721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_7
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2615
+        width: 176
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec48ae57dcc5641f0800000000000000
+      internalID: -1061058624682818354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_8
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 2906
+        width: 141
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ce59a44fcfe2520800000000000000
+      internalID: 2679356954485582890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2484
+        width: 880
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832d9928af1a278c0800000000000000
+      internalID: -4002959021473934792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_10
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2416
+        width: 68
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad31f0f4d01b72570800000000000000
+      internalID: 8441910697248363482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_11
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1831
+        width: 176
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab8a289d43770dc0800000000000000
+      internalID: -3672840193994749018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_12
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2250
+        width: 234
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedb36e58491c45d0800000000000000
+      internalID: -3077056646788956691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2364
+        width: 916
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348659580a7dcc0b0800000000000000
+      internalID: -5706949543349360573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_14
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2125
+        width: 68
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353b31aafd71dbb80800000000000000
+      internalID: -8377513482440690861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_15
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 2250
+        width: 218
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b78ef20bbeec7eb0800000000000000
+      internalID: -4720635822414592072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1816
+        width: 56
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a39361d3f7c586c0800000000000000
+      internalID: -4141684432293358684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2256
+        width: 629
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f36a4c8e5311e10800000000000000
+      internalID: 2166572169589833612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_18
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2187
+        width: 629
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b0558963b3efc00800000000000000
+      internalID: 936250878209624860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1729
+        width: 64
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1acc67b18ba0a080800000000000000
+      internalID: -9178147466964579812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_20
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1845
+        width: 369
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aee648ae80c1850800000000000000
+      internalID: 6348959378022787683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_21
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1870
+        width: 239
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9f55fda68966cd0800000000000000
+      internalID: -2565195352960009797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_22
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1870
+        width: 218
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6707c44ee9b0a90800000000000000
+      internalID: -7346603663752661275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_23
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 1870
+        width: 228
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6702fd10e110cde20800000000000000
+      internalID: 3376575049013076086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1375
+        width: 299
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92953950482a5710800000000000000
+      internalID: 1682701667616002716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1375
+        width: 304
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae20c15f5ada7df0800000000000000
+      internalID: -181592732026786142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_26
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1375
+        width: 303
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64899771ad6aebd0800000000000000
+      internalID: -2600145294589328273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_27
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1488
+        width: 480
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03645c72eefd4e1d0800000000000000
+      internalID: -3322284411130132944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_28
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1464
+        width: 482
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b825cadfcd1b200800000000000000
+      internalID: 194179241029569362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1006
+        width: 301
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b97b9ccaa1c408b0800000000000000
+      internalID: -5186807931502626382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_30
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1006
+        width: 304
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c2e906721b1f8d0800000000000000
+      internalID: -2814273509447029669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_31
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1006
+        width: 303
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e49ff04fe330810800000000000000
+      internalID: 1730295899801341511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_32
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1255
+        width: 477
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8de382762dffca80800000000000000
+      internalID: -8444252434724557426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_33
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1208
+        width: 485
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5496e2ff6fd82fb90800000000000000
+      internalID: -7209543961484039867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_34
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 879
+        width: 412
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86549521698107bb0800000000000000
+      internalID: -4940421758393432728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_35
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 950
+        width: 518
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1067e9c067e2ae0800000000000000
+      internalID: -1572189423335505488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 717
+        width: 495
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700aa8d21d9ae1660800000000000000
+      internalID: 7358505557047287815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_37
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 706
+        width: 123
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53cbb989eb3324e0800000000000000
+      internalID: -2007695134652906661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_38
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 631
+        width: 457
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6193d13cb196130800000000000000
+      internalID: 3560407505235941088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_39
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 631
+        width: 482
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f965efbbbc18690800000000000000
+      internalID: -7601570687738274026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 326
+        width: 501
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0170e95d5eb4b71d0800000000000000
+      internalID: -3352002047143704816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_41
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 366
+        width: 123
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c62f98213dfac0800000000000000
+      internalID: -3819842858401741779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_42
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 504
+        width: 457
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9294928aaf869a660800000000000000
+      internalID: 7397559288705141033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_43
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 504
+        width: 482
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92271ce41e599490800000000000000
+      internalID: -7739051040706190692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_44
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 312
+        width: 465
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c1c3ccf689a45b0800000000000000
+      internalID: -5383322798632723340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_45
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 319
+        width: 458
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd4d021e17699e20800000000000000
+      internalID: 3357828376030957046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 61
+        width: 477
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f31690b584a0b590800000000000000
+      internalID: -7660442072056982539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2_staff_47
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 123
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f197693f4bb4150800000000000000
+      internalID: 5857974698620034914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

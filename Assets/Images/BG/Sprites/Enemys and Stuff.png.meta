@@ -1,0 +1,2253 @@
+fileFormatVersion: 2
+guid: e9d17c2b064f5e84da97811dc5a3b404
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8832979975962863719
+    second: Enemys and Stuff_0
+  - first:
+      213: -4155938454573169010
+    second: Enemys and Stuff_1
+  - first:
+      213: 7493340233685587312
+    second: Enemys and Stuff_2
+  - first:
+      213: -3787304245844366988
+    second: Enemys and Stuff_3
+  - first:
+      213: -4293476905555203899
+    second: Enemys and Stuff_4
+  - first:
+      213: -4771423232377078254
+    second: Enemys and Stuff_5
+  - first:
+      213: -2006400803904441172
+    second: Enemys and Stuff_6
+  - first:
+      213: -8808436692388069899
+    second: Enemys and Stuff_7
+  - first:
+      213: -217341760820415321
+    second: Enemys and Stuff_8
+  - first:
+      213: -7911404662577371545
+    second: Enemys and Stuff_9
+  - first:
+      213: -7204986345920493611
+    second: Enemys and Stuff_10
+  - first:
+      213: -5442583400326716378
+    second: Enemys and Stuff_11
+  - first:
+      213: -5252299786325866518
+    second: Enemys and Stuff_12
+  - first:
+      213: 4884817069930535497
+    second: Enemys and Stuff_13
+  - first:
+      213: 3434201136434622557
+    second: Enemys and Stuff_14
+  - first:
+      213: -7406842686106368464
+    second: Enemys and Stuff_15
+  - first:
+      213: 6271363646230748495
+    second: Enemys and Stuff_16
+  - first:
+      213: -2874481646851537917
+    second: Enemys and Stuff_17
+  - first:
+      213: 4805182536001986011
+    second: Enemys and Stuff_18
+  - first:
+      213: 5293607169426247824
+    second: Enemys and Stuff_19
+  - first:
+      213: -624232262140180709
+    second: Enemys and Stuff_20
+  - first:
+      213: 651395042153222133
+    second: Enemys and Stuff_21
+  - first:
+      213: 5846153203522143218
+    second: Enemys and Stuff_22
+  - first:
+      213: 2461031418892206665
+    second: Enemys and Stuff_23
+  - first:
+      213: -5979497554161576087
+    second: Enemys and Stuff_24
+  - first:
+      213: -8421725170568289544
+    second: Enemys and Stuff_25
+  - first:
+      213: 1989488993559419509
+    second: Enemys and Stuff_26
+  - first:
+      213: -2244946365877431876
+    second: Enemys and Stuff_27
+  - first:
+      213: 5684874127999151825
+    second: Enemys and Stuff_28
+  - first:
+      213: -6198582264407676287
+    second: Enemys and Stuff_29
+  - first:
+      213: 5451717836753636872
+    second: Enemys and Stuff_30
+  - first:
+      213: 2463475318387407944
+    second: Enemys and Stuff_31
+  - first:
+      213: -474966494177286734
+    second: Enemys and Stuff_32
+  - first:
+      213: -4117431689652784827
+    second: Enemys and Stuff_33
+  - first:
+      213: 7310112183849855318
+    second: Enemys and Stuff_34
+  - first:
+      213: 8614405847545223244
+    second: Enemys and Stuff_35
+  - first:
+      213: -7296988300879610917
+    second: Enemys and Stuff_36
+  - first:
+      213: -2453501948372687587
+    second: Enemys and Stuff_37
+  - first:
+      213: -4864753657163856730
+    second: Enemys and Stuff_38
+  - first:
+      213: -4879592655270541966
+    second: Enemys and Stuff_39
+  - first:
+      213: 7435985392558631318
+    second: Enemys and Stuff_40
+  - first:
+      213: 6535153201955610543
+    second: Enemys and Stuff_41
+  - first:
+      213: 4802983673818734853
+    second: Enemys and Stuff_42
+  - first:
+      213: 151034182420449072
+    second: Enemys and Stuff_43
+  - first:
+      213: -583120943010383004
+    second: Enemys and Stuff_44
+  - first:
+      213: -5639737839647193231
+    second: Enemys and Stuff_45
+  - first:
+      213: -4477795875457049249
+    second: Enemys and Stuff_46
+  - first:
+      213: 6219804958929777032
+    second: Enemys and Stuff_47
+  - first:
+      213: -6587578496434635135
+    second: Enemys and Stuff_48
+  - first:
+      213: -8637222748831857390
+    second: Enemys and Stuff_49
+  - first:
+      213: 3567247843257342239
+    second: Enemys and Stuff_50
+  - first:
+      213: -1386860579654253469
+    second: Enemys and Stuff_51
+  - first:
+      213: 876403102587327893
+    second: Enemys and Stuff_52
+  - first:
+      213: -6268148833619515582
+    second: Enemys and Stuff_53
+  - first:
+      213: 8241228908631867245
+    second: Enemys and Stuff_54
+  - first:
+      213: -4939822343624456063
+    second: Enemys and Stuff_55
+  - first:
+      213: 3419678514198401064
+    second: Enemys and Stuff_56
+  - first:
+      213: -7854222302524174449
+    second: Enemys and Stuff_57
+  - first:
+      213: -7885055323848442101
+    second: Enemys and Stuff_58
+  - first:
+      213: -6249671094090970601
+    second: Enemys and Stuff_59
+  - first:
+      213: 7222085998517967635
+    second: Enemys and Stuff_60
+  - first:
+      213: -4354460651686680208
+    second: Enemys and Stuff_61
+  - first:
+      213: 2431109485622062856
+    second: Enemys and Stuff_62
+  - first:
+      213: 198133387718945511
+    second: Enemys and Stuff_63
+  - first:
+      213: 1911925590727465230
+    second: Enemys and Stuff_64
+  - first:
+      213: -3574221292227456425
+    second: Enemys and Stuff_65
+  - first:
+      213: -8438865756038983668
+    second: Enemys and Stuff_66
+  - first:
+      213: -1805666970761136853
+    second: Enemys and Stuff_67
+  - first:
+      213: 3492246408881777073
+    second: Enemys and Stuff_68
+  - first:
+      213: -748629169452949548
+    second: Enemys and Stuff_69
+  - first:
+      213: -6559159567685321446
+    second: Enemys and Stuff_70
+  - first:
+      213: -6534509072759905049
+    second: Enemys and Stuff_71
+  - first:
+      213: 8355010029051842996
+    second: Enemys and Stuff_72
+  - first:
+      213: -6446765915059066544
+    second: Enemys and Stuff_73
+  - first:
+      213: 5443935164962852390
+    second: Enemys and Stuff_74
+  - first:
+      213: 1680507611404441864
+    second: Enemys and Stuff_75
+  - first:
+      213: 2846417710388042324
+    second: Enemys and Stuff_76
+  - first:
+      213: -731398743812884564
+    second: Enemys and Stuff_77
+  - first:
+      213: 2945832109764380678
+    second: Enemys and Stuff_78
+  - first:
+      213: -7344455717923604198
+    second: Enemys and Stuff_79
+  - first:
+      213: 695530299892794973
+    second: Enemys and Stuff_80
+  - first:
+      213: -5880352580592103791
+    second: Enemys and Stuff_81
+  - first:
+      213: -2414133758890945293
+    second: Enemys and Stuff_82
+  - first:
+      213: -2401417466825872547
+    second: Enemys and Stuff_83
+  - first:
+      213: -6331353048521799304
+    second: Enemys and Stuff_84
+  - first:
+      213: 3059229685898607475
+    second: Enemys and Stuff_85
+  - first:
+      213: 7879975103690729452
+    second: Enemys and Stuff_86
+  - first:
+      213: -5909668051000740342
+    second: Enemys and Stuff_87
+  - first:
+      213: -61627140143715609
+    second: Enemys and Stuff_88
+  - first:
+      213: 7697730732545514400
+    second: Enemys and Stuff_89
+  - first:
+      213: -305794573970413715
+    second: Enemys and Stuff_90
+  - first:
+      213: 4451494066092854560
+    second: Enemys and Stuff_91
+  - first:
+      213: -6252329288969514370
+    second: Enemys and Stuff_92
+  - first:
+      213: 4495403024230098523
+    second: Enemys and Stuff_93
+  - first:
+      213: 3711645289916005090
+    second: Enemys and Stuff_94
+  - first:
+      213: 1594892867573208971
+    second: Enemys and Stuff_95
+  - first:
+      213: -8659968758116485045
+    second: Enemys and Stuff_96
+  - first:
+      213: -8327364078510820281
+    second: Enemys and Stuff_97
+  - first:
+      213: -6288754872553927282
+    second: Enemys and Stuff_98
+  - first:
+      213: -3671872609338802380
+    second: Enemys and Stuff_99
+  - first:
+      213: 7304140263823766019
+    second: Enemys and Stuff_100
+  - first:
+      213: 57718370958820236
+    second: Enemys and Stuff_101
+  - first:
+      213: 4401608951003135998
+    second: Enemys and Stuff_102
+  - first:
+      213: -73967191889682423
+    second: Enemys and Stuff_103
+  - first:
+      213: -3399512166198742410
+    second: Enemys and Stuff_104
+  - first:
+      213: 8501936878219062161
+    second: Enemys and Stuff_105
+  - first:
+      213: 7827230456554862802
+    second: Enemys and Stuff_106
+  - first:
+      213: -2060419626554656917
+    second: Enemys and Stuff_107
+  - first:
+      213: 4671197953905343423
+    second: Enemys and Stuff_108
+  - first:
+      213: -4184646171474066427
+    second: Enemys and Stuff_109
+  - first:
+      213: -629904321081185862
+    second: Enemys and Stuff_110
+  - first:
+      213: -7100280233302739273
+    second: Enemys and Stuff_111
+  - first:
+      213: -3145158907342847164
+    second: Enemys and Stuff_112
+  - first:
+      213: -4593153022770457127
+    second: Enemys and Stuff_113
+  - first:
+      213: 5822712259404904428
+    second: Enemys and Stuff_114
+  - first:
+      213: 3722562120185076411
+    second: Enemys and Stuff_115
+  - first:
+      213: 645484054364043129
+    second: Enemys and Stuff_116
+  - first:
+      213: -5414960440320332443
+    second: Enemys and Stuff_117
+  - first:
+      213: -8773563534367854384
+    second: Enemys and Stuff_118
+  - first:
+      213: -2891745972463330514
+    second: Enemys and Stuff_119
+  - first:
+      213: -169661959405886068
+    second: Enemys and Stuff_120
+  - first:
+      213: -4392009332413781445
+    second: Enemys and Stuff_121
+  - first:
+      213: 3159704607395150511
+    second: Enemys and Stuff_122
+  - first:
+      213: 2759048811297719793
+    second: Enemys and Stuff_123
+  - first:
+      213: 2570086263915912368
+    second: Enemys and Stuff_124
+  - first:
+      213: 1349388551581404334
+    second: Enemys and Stuff_125
+  - first:
+      213: -4040395238888083153
+    second: Enemys and Stuff_126
+  - first:
+      213: 8199299005649166052
+    second: Enemys and Stuff_127
+  - first:
+      213: -3161083953759023654
+    second: Enemys and Stuff_128
+  - first:
+      213: -235503654159369196
+    second: Enemys and Stuff_129
+  - first:
+      213: 980236479255809152
+    second: Enemys and Stuff_130
+  - first:
+      213: -2527482896845592229
+    second: Enemys and Stuff_131
+  - first:
+      213: -7880416655621858138
+    second: Enemys and Stuff_132
+  - first:
+      213: -4856127523823837490
+    second: Enemys and Stuff_133
+  - first:
+      213: -3602560175810714426
+    second: Enemys and Stuff_134
+  - first:
+      213: -385786862965625137
+    second: Enemys and Stuff_135
+  - first:
+      213: 2545069893300134591
+    second: Enemys and Stuff_136
+  - first:
+      213: -7730988733170180370
+    second: Enemys and Stuff_137
+  - first:
+      213: -5262027165883779378
+    second: Enemys and Stuff_138
+  - first:
+      213: 8417636268516871822
+    second: Enemys and Stuff_139
+  - first:
+      213: 5780815213164969622
+    second: Enemys and Stuff_140
+  - first:
+      213: -6063686038579866369
+    second: Enemys and Stuff_141
+  - first:
+      213: -5570467210532034631
+    second: Enemys and Stuff_142
+  - first:
+      213: 8686902637341707669
+    second: Enemys and Stuff_143
+  - first:
+      213: 800029652779713315
+    second: Enemys and Stuff_144
+  - first:
+      213: 799088828072966202
+    second: Enemys and Stuff_145
+  - first:
+      213: 4865598537712678291
+    second: Enemys and Stuff_146
+  - first:
+      213: -2180201720340355764
+    second: Enemys and Stuff_147
+  - first:
+      213: -1155253769738038794
+    second: Enemys and Stuff_148
+  - first:
+      213: 4256604717410011992
+    second: Enemys and Stuff_149
+  - first:
+      213: 2210226075154999083
+    second: Enemys and Stuff_150
+  - first:
+      213: 8838518522479751887
+    second: Enemys and Stuff_151
+  - first:
+      213: 8128315698371881939
+    second: Enemys and Stuff_152
+  - first:
+      213: -2638980738605985911
+    second: Enemys and Stuff_153
+  - first:
+      213: -3719184863128402535
+    second: Enemys and Stuff_154
+  - first:
+      213: -7593267223786082858
+    second: Enemys and Stuff_155
+  - first:
+      213: -7219164191653283258
+    second: Enemys and Stuff_156
+  - first:
+      213: -8394002294307489931
+    second: Enemys and Stuff_157
+  - first:
+      213: -7916199113273155068
+    second: Enemys and Stuff_158
+  - first:
+      213: 5891670243631070039
+    second: Enemys and Stuff_159
+  - first:
+      213: -601466140332155043
+    second: Enemys and Stuff_160
+  - first:
+      213: -4317890558237374470
+    second: Enemys and Stuff_161
+  - first:
+      213: 6459180731405917370
+    second: Enemys and Stuff_162
+  - first:
+      213: 7909395647964017230
+    second: Enemys and Stuff_163
+  - first:
+      213: -5455488009833340507
+    second: Enemys and Stuff_164
+  - first:
+      213: 438829211708271991
+    second: Enemys and Stuff_165
+  - first:
+      213: 1175307859700772299
+    second: Enemys and Stuff_166
+  - first:
+      213: -685524587048279499
+    second: Enemys and Stuff_167
+  - first:
+      213: 2184264265945963308
+    second: Enemys and Stuff_168
+  - first:
+      213: 3811131764599611524
+    second: Enemys and Stuff_169
+  - first:
+      213: 8054653074958964267
+    second: Enemys and Stuff_170
+  - first:
+      213: 6265062754567324016
+    second: Enemys and Stuff_171
+  - first:
+      213: -4374046079214276795
+    second: Enemys and Stuff_172
+  - first:
+      213: -7611197365466692161
+    second: Enemys and Stuff_173
+  - first:
+      213: -5016416730274419866
+    second: Enemys and Stuff_174
+  - first:
+      213: 3594446527756925412
+    second: Enemys and Stuff_175
+  - first:
+      213: -6934323776297284646
+    second: Enemys and Stuff_176
+  - first:
+      213: -9083714572976680113
+    second: Enemys and Stuff_177
+  - first:
+      213: 5870257156650620111
+    second: Enemys and Stuff_178
+  - first:
+      213: 2784315370151536325
+    second: Enemys and Stuff_179
+  - first:
+      213: -8254314946361646580
+    second: Enemys and Stuff_180
+  - first:
+      213: -1332391834967139085
+    second: Enemys and Stuff_181
+  - first:
+      213: 6416815582430858964
+    second: Enemys and Stuff_182
+  - first:
+      213: 5926643264811372842
+    second: Enemys and Stuff_183
+  - first:
+      213: 177921811800558221
+    second: Enemys and Stuff_184
+  - first:
+      213: 2199636760574631243
+    second: Enemys and Stuff_185
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemys and Stuff_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 14487
+        width: 398
+        height: 1041
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768a76f2d7c059a70800000000000000
+      internalID: 8832979975962863719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 14488
+        width: 391
+        height: 1040
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c7c2aef32356c0800000000000000
+      internalID: -4155938454573169010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_2
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 14487
+        width: 383
+        height: 1041
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d8f9bd31bdf760800000000000000
+      internalID: 7493340233685587312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_3
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 14488
+        width: 380
+        height: 1040
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4792e1abadac07bc0800000000000000
+      internalID: -3787304245844366988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_4
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 14488
+        width: 360
+        height: 1040
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8e90190818a64c0800000000000000
+      internalID: -4293476905555203899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_5
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 14488
+        width: 345
+        height: 1040
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e3e19a9df78cdb0800000000000000
+      internalID: -4771423232377078254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_6
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 14488
+        width: 322
+        height: 1040
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4b7366915d724e0800000000000000
+      internalID: -2006400803904441172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_7
+      rect:
+        serializedVersion: 2
+        x: 3937
+        y: 14487
+        width: 345
+        height: 1041
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd31b35f7522c580800000000000000
+      internalID: -8808436692388069899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_8
+      rect:
+        serializedVersion: 2
+        x: 4438
+        y: 14487
+        width: 360
+        height: 1041
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4f07fe1d8dbfcf0800000000000000
+      internalID: -217341760820415321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_9
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 14487
+        width: 379
+        height: 1041
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766e4b4306b053290800000000000000
+      internalID: -7911404662577371545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_10
+      rect:
+        serializedVersion: 2
+        x: 5416
+        y: 14487
+        width: 383
+        height: 1041
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d78edf871fb20c90800000000000000
+      internalID: -7204986345920493611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_11
+      rect:
+        serializedVersion: 2
+        x: 5882
+        y: 14487
+        width: 391
+        height: 1041
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624a613cb3f0874b0800000000000000
+      internalID: -5442583400326716378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_12
+      rect:
+        serializedVersion: 2
+        x: 10860
+        y: 14347
+        width: 1649
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7cf261c251c17b0800000000000000
+      internalID: -5252299786325866518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12850
+        width: 405
+        height: 1042
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a59f58e3b5ac340800000000000000
+      internalID: 4884817069930535497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 12850
+        width: 406
+        height: 1042
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50bd680dbbb8af20800000000000000
+      internalID: 3434201136434622557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_15
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 12850
+        width: 402
+        height: 1042
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0360e63f1db953990800000000000000
+      internalID: -7406842686106368464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_16
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 12850
+        width: 390
+        height: 1042
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dd1e6520c580750800000000000000
+      internalID: 6271363646230748495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_17
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 12850
+        width: 376
+        height: 1042
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304c80efb2acb18d0800000000000000
+      internalID: -2874481646851537917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_18
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 12850
+        width: 356
+        height: 1042
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd1f4bbe007fa240800000000000000
+      internalID: 4805182536001986011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_19
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 12850
+        width: 337
+        height: 1042
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090dc128caba67940800000000000000
+      internalID: 5293607169426247824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_20
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 12850
+        width: 356
+        height: 1042
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17cbcd90184657f0800000000000000
+      internalID: -624232262140180709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_21
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 12850
+        width: 375
+        height: 1042
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff4effe6583a0900800000000000000
+      internalID: 651395042153222133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_22
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 12850
+        width: 390
+        height: 1042
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f303764d55b12150800000000000000
+      internalID: 5846153203522143218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_23
+      rect:
+        serializedVersion: 2
+        x: 5412
+        y: 12850
+        width: 398
+        height: 1042
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94245205907572220800000000000000
+      internalID: 2461031418892206665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_24
+      rect:
+        serializedVersion: 2
+        x: 5909
+        y: 12850
+        width: 409
+        height: 1042
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967d1ecb7ae840da0800000000000000
+      internalID: -5979497554161576087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_25
+      rect:
+        serializedVersion: 2
+        x: 10989
+        y: 13236
+        width: 1740
+        height: 713
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2af4cd395002b80800000000000000
+      internalID: -8421725170568289544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_79
+      rect:
+        serializedVersion: 2
+        x: 10862
+        y: 12126
+        width: 2051
+        height: 730
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19b398ef60431a90800000000000000
+      internalID: -7344455717923604198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_84
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 10897
+        width: 868
+        height: 1411
+      alignment: 9
+      pivot: {x: 0.69124424, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879854382f38228a0800000000000000
+      internalID: -6331353048521799304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_85
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9923
+        width: 826
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bf05ad031947a20800000000000000
+      internalID: 3059229685898607475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_86
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 9919
+        width: 799
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7686e5b9b4b5d60800000000000000
+      internalID: 7879975103690729452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_87
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 9919
+        width: 764
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0630a7e734acfda0800000000000000
+      internalID: -5909668051000740342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_88
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 9923
+        width: 735
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eae53b417e052ff0800000000000000
+      internalID: -61627140143715609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_89
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 9923
+        width: 690
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab9bf12155d3da60800000000000000
+      internalID: 7697730732545514400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_90
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 9919
+        width: 732
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d676044847991cbf0800000000000000
+      internalID: -305794573970413715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_91
+      rect:
+        serializedVersion: 2
+        x: 5029
+        y: 9923
+        width: 766
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d4931a442e6cd30800000000000000
+      internalID: 4451494066092854560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_92
+      rect:
+        serializedVersion: 2
+        x: 5897
+        y: 9919
+        width: 800
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72933053a34b39a0800000000000000
+      internalID: -6252329288969514370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_93
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 9043
+        width: 838
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56a37d9b31e26e30800000000000000
+      internalID: 4495403024230098523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_94
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 9043
+        width: 826
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf1bdd9b9628330800000000000000
+      internalID: 3711645289916005090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_95
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 9043
+        width: 834
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87518aec92322610800000000000000
+      internalID: 1594892867573208971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_96
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 9043
+        width: 834
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b487c760c4c91d780800000000000000
+      internalID: -8659968758116485045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_97
+      rect:
+        serializedVersion: 2
+        x: 4005
+        y: 9043
+        width: 835
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744b309ad724f6c80800000000000000
+      internalID: -8327364078510820281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_98
+      rect:
+        serializedVersion: 2
+        x: 5006
+        y: 9043
+        width: 823
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d8aed33cad9b8a0800000000000000
+      internalID: -6288754872553927282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_99
+      rect:
+        serializedVersion: 2
+        x: 6054
+        y: 9043
+        width: 837
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fbfd3f053ea0dc0800000000000000
+      internalID: -3671872609338802380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_100
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8005
+        width: 747
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302f7d6fed48d5560800000000000000
+      internalID: 7304140263823766019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_101
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 7990
+        width: 744
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83c3067d8e0dc000800000000000000
+      internalID: 57718370958820236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_102
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 6553
+        width: 648
+        height: 735
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effb8bc2508a51d30800000000000000
+      internalID: 4401608951003135998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_103
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 6553
+        width: 458
+        height: 390
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900e16a1b3739fef0800000000000000
+      internalID: -73967191889682423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_104
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 6553
+        width: 390
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672fa1c32b182d0d0800000000000000
+      internalID: -3399512166198742410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_105
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 6549
+        width: 421
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b6a09ab82fcf570800000000000000
+      internalID: 8501936878219062161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_106
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 6549
+        width: 421
+        height: 394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8321a31a8ef9c60800000000000000
+      internalID: 7827230456554862802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_107
+      rect:
+        serializedVersion: 2
+        x: 4070
+        y: 6549
+        width: 603
+        height: 409
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6777f6244be763e0800000000000000
+      internalID: -2060419626554656917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_108
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5783
+        width: 498
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb3f0e3acd63d040800000000000000
+      internalID: 4671197953905343423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_109
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 5773
+        width: 503
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504079e6a762de5c0800000000000000
+      internalID: -4184646171474066427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_110
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 5780
+        width: 503
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9e87b7b512247f0800000000000000
+      internalID: -629904321081185862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_111
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 5776
+        width: 504
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b633482fbcb67d90800000000000000
+      internalID: -7100280233302739273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_112
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 5787
+        width: 496
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4438ca533a62a54d0800000000000000
+      internalID: -3145158907342847164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_113
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5188
+        width: 614
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d551ce49a7d140c0800000000000000
+      internalID: -4593153022770457127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_114
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 4991
+        width: 520
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7342b23fd6ec050800000000000000
+      internalID: 5822712259404904428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_115
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3785
+        width: 396
+        height: 1125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbad4fb768239a330800000000000000
+      internalID: 3722562120185076411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_116
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 4906
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9773c88d35835f800800000000000000
+      internalID: 645484054364043129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_117
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 4001
+        width: 777
+        height: 781
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56de9e15b223ad4b0800000000000000
+      internalID: -5414960440320332443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_118
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 3979
+        width: 819
+        height: 819
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0fea7237a0e3680800000000000000
+      internalID: -8773563534367854384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_119
+      rect:
+        serializedVersion: 2
+        x: 4005
+        y: 4000
+        width: 778
+        height: 782
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b18a2fb547ed7d0800000000000000
+      internalID: -2891745972463330514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_120
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2419
+        width: 436
+        height: 1031
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8527b9c85d35adf0800000000000000
+      internalID: -169661959405886068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_121
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2819
+        width: 777
+        height: 781
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aa64338c27c03c0800000000000000
+      internalID: -4392009332413781445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_122
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 2929
+        width: 678
+        height: 644
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaf3fe799689db20800000000000000
+      internalID: 3159704607395150511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_123
+      rect:
+        serializedVersion: 2
+        x: 5393
+        y: 3138
+        width: 281
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f54d5b964c1a4620800000000000000
+      internalID: 2759048811297719793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_124
+      rect:
+        serializedVersion: 2
+        x: 4717
+        y: 2458
+        width: 1683
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc91d217d7caa320800000000000000
+      internalID: 2570086263915912368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_125
+      rect:
+        serializedVersion: 2
+        x: 6432
+        y: 2508
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac0df00dbdf9b210800000000000000
+      internalID: 1349388551581404334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_126
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 855
+        width: 853
+        height: 993
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2175e9efe1ade7c0800000000000000
+      internalID: -4040395238888083153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_127
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1600
+        width: 777
+        height: 783
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee9eeef003c9c170800000000000000
+      internalID: 8199299005649166052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_128
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 1621
+        width: 1050
+        height: 587
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add810764e29124d0800000000000000
+      internalID: -3161083953759023654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_129
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 0
+        width: 2311
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c368e9ca25bbcf0800000000000000
+      internalID: -235503654159369196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_130
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 344
+        width: 777
+        height: 783
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c0ce562ef7a9d00800000000000000
+      internalID: 980236479255809152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemys and Stuff_131
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 941
+        height: 828
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59a4ad42b39cecd0800000000000000
+      internalID: -2527482896845592229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

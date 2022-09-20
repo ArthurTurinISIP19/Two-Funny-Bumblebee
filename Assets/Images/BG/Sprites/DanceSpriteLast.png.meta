@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: c50ca7616110c9d49aa2506b3af2e03c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5685355288346342541
+    second: DanceSpriteLast_0
+  - first:
+      213: 8027602547975417609
+    second: DanceSpriteLast_1
+  - first:
+      213: 3679112502003219773
+    second: DanceSpriteLast_2
+  - first:
+      213: -6825433824055670970
+    second: DanceSpriteLast_3
+  - first:
+      213: 873103548519705628
+    second: DanceSpriteLast_4
+  - first:
+      213: -7490883825659237782
+    second: DanceSpriteLast_5
+  - first:
+      213: 8496016769785726326
+    second: DanceSpriteLast_6
+  - first:
+      213: 488530923514355198
+    second: DanceSpriteLast_7
+  - first:
+      213: -4447531665664372896
+    second: DanceSpriteLast_8
+  - first:
+      213: 1008789565945496387
+    second: DanceSpriteLast_9
+  - first:
+      213: 1603243141008998535
+    second: DanceSpriteLast_10
+  - first:
+      213: 5576169366126564704
+    second: DanceSpriteLast_11
+  - first:
+      213: 7797739419160810223
+    second: DanceSpriteLast_12
+  - first:
+      213: -6806032529409753175
+    second: DanceSpriteLast_13
+  - first:
+      213: 7400069855557444474
+    second: DanceSpriteLast_14
+  - first:
+      213: -8732840453889855164
+    second: DanceSpriteLast_15
+  - first:
+      213: -8607617963459977969
+    second: DanceSpriteLast_16
+  - first:
+      213: 4876708066364555868
+    second: DanceSpriteLast_17
+  - first:
+      213: 1238053573343698993
+    second: DanceSpriteLast_18
+  - first:
+      213: -276949793940544860
+    second: DanceSpriteLast_19
+  - first:
+      213: 4275068642720843612
+    second: DanceSpriteLast_20
+  - first:
+      213: -1149061074052870104
+    second: DanceSpriteLast_21
+  - first:
+      213: -1566829047978218027
+    second: DanceSpriteLast_22
+  - first:
+      213: 4200203996312171624
+    second: DanceSpriteLast_23
+  - first:
+      213: 3314324967759562421
+    second: DanceSpriteLast_24
+  - first:
+      213: 8892336801492870445
+    second: DanceSpriteLast_25
+  - first:
+      213: 8795630499663314799
+    second: DanceSpriteLast_26
+  - first:
+      213: 270976758901085846
+    second: DanceSpriteLast_27
+  - first:
+      213: 1868419079745924963
+    second: DanceSpriteLast_28
+  - first:
+      213: 7322135522501398633
+    second: DanceSpriteLast_29
+  - first:
+      213: -4066006758663439766
+    second: DanceSpriteLast_30
+  - first:
+      213: -8157564755877172422
+    second: DanceSpriteLast_31
+  - first:
+      213: -2164224978819780949
+    second: DanceSpriteLast_32
+  - first:
+      213: -5597224034445880576
+    second: DanceSpriteLast_33
+  - first:
+      213: 6533192656655306080
+    second: DanceSpriteLast_34
+  - first:
+      213: 8603919991492654215
+    second: DanceSpriteLast_35
+  - first:
+      213: -2905114846050214567
+    second: DanceSpriteLast_36
+  - first:
+      213: 4499868494779996252
+    second: DanceSpriteLast_37
+  - first:
+      213: 8055717397985574980
+    second: DanceSpriteLast_38
+  - first:
+      213: 3887582391081614324
+    second: DanceSpriteLast_39
+  - first:
+      213: -3020244740872395426
+    second: DanceSpriteLast_40
+  - first:
+      213: -2498724486070669416
+    second: DanceSpriteLast_41
+  - first:
+      213: 2626509722692032970
+    second: DanceSpriteLast_42
+  - first:
+      213: 8102940940443756792
+    second: DanceSpriteLast_43
+  - first:
+      213: 5178782148333991938
+    second: DanceSpriteLast_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DanceSpriteLast_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2050
+        width: 245
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b4a30dc7f8911b0800000000000000
+      internalID: -5685355288346342541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2050
+        width: 231
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f681e3cf5c76f60800000000000000
+      internalID: 8027602547975417609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2050
+        width: 229
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3db99ae355de0330800000000000000
+      internalID: 3679112502003219773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_3
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2050
+        width: 228
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647c93789103741a0800000000000000
+      internalID: -6825433824055670970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_4
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 2050
+        width: 229
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c66ad2d03ed1c00800000000000000
+      internalID: 873103548519705628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_5
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 2050
+        width: 226
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aacd559d80b0890800000000000000
+      internalID: -7490883825659237782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_6
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 2050
+        width: 229
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67507d00d3ae7e570800000000000000
+      internalID: 8496016769785726326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1734
+        width: 228
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efddddd594c97c600800000000000000
+      internalID: 488530923514355198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1734
+        width: 228
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f06cc93813742c0800000000000000
+      internalID: -4447531665664372896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1734
+        width: 229
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3434d43f3c0fffd00800000000000000
+      internalID: 1008789565945496387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_10
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1734
+        width: 228
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7804c64742ddf3610800000000000000
+      internalID: 1603243141008998535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_11
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1734
+        width: 229
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0659363ae78826d40800000000000000
+      internalID: 5576169366126564704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_12
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1734
+        width: 226
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2142200b2273c60800000000000000
+      internalID: 7797739419160810223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_13
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1734
+        width: 227
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af37c2797d1c81a0800000000000000
+      internalID: -6806032529409753175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1413
+        width: 228
+        height: 293
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73e39d835452b660800000000000000
+      internalID: 7400069855557444474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1413
+        width: 228
+        height: 294
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441fbb130e7bec680800000000000000
+      internalID: -8732840453889855164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_16
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1413
+        width: 229
+        height: 296
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d52bd31199b8880800000000000000
+      internalID: -8607617963459977969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_17
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1413
+        width: 228
+        height: 296
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5201f0062c8da340800000000000000
+      internalID: 4876708066364555868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_18
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1413
+        width: 229
+        height: 297
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130ed0c5a237e2110800000000000000
+      internalID: 1238053573343698993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_19
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1413
+        width: 226
+        height: 298
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a26e8731a3182cf0800000000000000
+      internalID: -276949793940544860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_20
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1413
+        width: 227
+        height: 300
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5789cfb748145b30800000000000000
+      internalID: 4275068642720843612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1097
+        width: 228
+        height: 297
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82099d78a07bd00f0800000000000000
+      internalID: -1149061074052870104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_22
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1097
+        width: 228
+        height: 296
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddae734841814ae0800000000000000
+      internalID: -1566829047978218027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_23
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1097
+        width: 229
+        height: 295
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864fc50f74f1a4a30800000000000000
+      internalID: 4200203996312171624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_24
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1097
+        width: 228
+        height: 295
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b644858ff8defd20800000000000000
+      internalID: 3314324967759562421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_25
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1097
+        width: 229
+        height: 293
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25ad14153de76b70800000000000000
+      internalID: 8892336801492870445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_26
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1097
+        width: 226
+        height: 292
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ff504965b501a70800000000000000
+      internalID: 8795630499663314799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_27
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1097
+        width: 227
+        height: 291
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6969fa03de3b2c300800000000000000
+      internalID: 270976758901085846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 609
+        width: 229
+        height: 388
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f61d3f045fde910800000000000000
+      internalID: 1868419079745924963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_29
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 609
+        width: 229
+        height: 375
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96017ff96737d9560800000000000000
+      internalID: 7322135522501398633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_30
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 609
+        width: 230
+        height: 360
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a37874564a297c0800000000000000
+      internalID: -4066006758663439766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_31
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 609
+        width: 231
+        height: 354
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3be1bd33128ace80800000000000000
+      internalID: -8157564755877172422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_32
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 609
+        width: 230
+        height: 360
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae6b6b29d027f1e0800000000000000
+      internalID: -2164224978819780949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_33
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 609
+        width: 229
+        height: 375
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0031392656aa252b0800000000000000
+      internalID: -5597224034445880576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_34
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 609
+        width: 229
+        height: 388
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d412d5b109aaa50800000000000000
+      internalID: 6533192656655306080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 228
+        height: 352
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7843dc095a3476770800000000000000
+      internalID: 8603919991492654215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 229
+        height: 352
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d96718075fea7d0800000000000000
+      internalID: -2905114846050214567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_37
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 229
+        height: 352
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58555ffd8eb27e30800000000000000
+      internalID: 4499868494779996252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_38
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 229
+        height: 352
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4404dddda48abcf60800000000000000
+      internalID: 8055717397985574980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_39
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 0
+        width: 229
+        height: 352
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbbb7f569773f530800000000000000
+      internalID: 3887582391081614324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_40
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 0
+        width: 229
+        height: 352
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e552f8df86fe516d0800000000000000
+      internalID: -3020244740872395426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_41
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 0
+        width: 229
+        height: 352
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fef28915fb25dd0800000000000000
+      internalID: -2498724486070669416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_42
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 0
+        width: 229
+        height: 352
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac91b2c4dac337420800000000000000
+      internalID: 2626509722692032970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_43
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 0
+        width: 229
+        height: 352
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8ae17aadd637070800000000000000
+      internalID: 8102940940443756792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceSpriteLast_44
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 0
+        width: 228
+        height: 352
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208f490fceabed740800000000000000
+      internalID: 5178782148333991938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

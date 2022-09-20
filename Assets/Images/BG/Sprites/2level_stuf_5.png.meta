@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 6acf86f25b756804dbb910d04dbd47bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8965621926150955529
+    second: 2level_stuf_5_0
+  - first:
+      213: 3316940234739982534
+    second: 2level_stuf_5_1
+  - first:
+      213: 5494030147014506250
+    second: 2level_stuf_5_2
+  - first:
+      213: -5173487339784313956
+    second: 2level_stuf_5_3
+  - first:
+      213: -1227466128837691519
+    second: 2level_stuf_5_4
+  - first:
+      213: 7932157615453573558
+    second: 2level_stuf_5_5
+  - first:
+      213: -3678696699517873875
+    second: 2level_stuf_5_6
+  - first:
+      213: -1442900615179063890
+    second: 2level_stuf_5_7
+  - first:
+      213: 5588132945076417000
+    second: 2level_stuf_5_8
+  - first:
+      213: -1161415845488705003
+    second: 2level_stuf_5_9
+  - first:
+      213: -6705941581925291829
+    second: 2level_stuf_5_10
+  - first:
+      213: -8990208977313759946
+    second: 2level_stuf_5_11
+  - first:
+      213: -8828665072910017571
+    second: 2level_stuf_5_12
+  - first:
+      213: -7578394709812521687
+    second: 2level_stuf_5_13
+  - first:
+      213: 8804871663666684322
+    second: 2level_stuf_5_14
+  - first:
+      213: 8507945991627517651
+    second: 2level_stuf_5_15
+  - first:
+      213: 2572377821063681916
+    second: 2level_stuf_5_16
+  - first:
+      213: 6642886827001402153
+    second: 2level_stuf_5_17
+  - first:
+      213: -7410623052131244688
+    second: 2level_stuf_5_18
+  - first:
+      213: 1917218362086784409
+    second: 2level_stuf_5_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2level_stuf_5_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4246
+        width: 188
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9026ea2d3a94c6c70800000000000000
+      internalID: 8965621926150955529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 4246
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0a0e0d193280e20800000000000000
+      internalID: 3316940234739982534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 4265
+        width: 186
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0736126f47be3c40800000000000000
+      internalID: 5494030147014506250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 4265
+        width: 194
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93ec2ebca41438b0800000000000000
+      internalID: -5173487339784313956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_4
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 4136
+        width: 2078
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1873ec82f0a27fee0800000000000000
+      internalID: -1227466128837691519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3896
+        width: 250
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1158b235fa41e60800000000000000
+      internalID: 7932157615453573558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3907
+        width: 248
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21d5d4a7d4a2fcc0800000000000000
+      internalID: -3678696699517873875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_7
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3870
+        width: 253
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead2f0a0989c9fbe0800000000000000
+      internalID: -1442900615179063890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_8
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 3611
+        width: 2062
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1ffec6e490d8d40800000000000000
+      internalID: 5588132945076417000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3127
+        width: 247
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512c2252172d1efe0800000000000000
+      internalID: -1161415845488705003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_10
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 3110
+        width: 2039
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc862dc29a5bfe2a0800000000000000
+      internalID: -6705941581925291829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2380
+        width: 753
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d7faa319c5c3380800000000000000
+      internalID: -8990208977313759946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_12
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2452
+        width: 754
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbdc4874e74a7580800000000000000
+      internalID: -8828665072910017571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_13
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 2413
+        width: 753
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925dce9d92224d690800000000000000
+      internalID: -7578394709812521687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1670
+        width: 859
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a161cdb020313a70800000000000000
+      internalID: 8804871663666684322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_15
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1835
+        width: 145
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deaa276dcb421670800000000000000
+      internalID: 8507945991627517651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_16
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1234
+        width: 1248
+        height: 877
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77189ccffbe2b320800000000000000
+      internalID: 2572377821063681916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 338
+        width: 599
+        height: 1134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9235a86af56403c50800000000000000
+      internalID: 6642886827001402153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_18
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 494
+        width: 287
+        height: 1022
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0756565e89d282990800000000000000
+      internalID: -7410623052131244688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2level_stuf_5_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3521
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99df90541f35b9a10800000000000000
+      internalID: 1917218362086784409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
